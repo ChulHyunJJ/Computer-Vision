@@ -26,7 +26,7 @@
 16. 딥드림(DeepDream).ipynb
 
 - 과제
-1.Numpy_and_Image.ipynb
-2.Image_Processing.ipynb
+1. Numpy_and_Image.ipynb
+2. Image_Processing.ipynb
 
 ## 예시
