@@ -24,6 +24,9 @@
 14. 변이형 오토인코더 (Variational AutoEncoders, VAE).ipynb
 15. 적대적 생성 신경망(Generative Adversarial Networks, GAN).ipynb
 16. 딥드림(DeepDream).ipynb
+17. 뉴럴 스타일 트랜스퍼(Neural Style Transfer).ipynb
+18. Pix2Pix.ipynb
+19. CycleGAN.ipynb
 
 - 과제
 1. Numpy_and_Image.ipynb
